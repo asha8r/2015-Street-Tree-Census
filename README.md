@@ -15,7 +15,7 @@ This work analyzes the 2015 Street Tree Census data to uncover insights into New
 ## Installation and Setup
 To execute this analysis, utilize any web-based platforms that support Python, such as Google Colab or Jupyter Notebook, or you can run it on offline platforms that are compatible with Python.
 
-'bash'
+# code to install the packages
 pip install pandas numpy matplotlib seaborn scipy
 
 ## Use the Below code to import the libraries
